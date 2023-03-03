@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Adolf7_react/static/css/main.239a090d.css",
+    "main.js": "/Adolf7_react/static/js/main.d5694c85.js",
+    "index.html": "/Adolf7_react/index.html",
+    "main.239a090d.css.map": "/Adolf7_react/static/css/main.239a090d.css.map",
+    "main.d5694c85.js.map": "/Adolf7_react/static/js/main.d5694c85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.239a090d.css",
+    "static/js/main.d5694c85.js"
+  ]
+}
