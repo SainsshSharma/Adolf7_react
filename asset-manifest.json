@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Adolf7_react/static/css/main.239a090d.css",
+    "main.css": "/Adolf7_react/static/css/main.d4d0bee4.css",
     "main.js": "/Adolf7_react/static/js/main.f4b02bd8.js",
     "index.html": "/Adolf7_react/index.html",
-    "main.239a090d.css.map": "/Adolf7_react/static/css/main.239a090d.css.map",
+    "main.d4d0bee4.css.map": "/Adolf7_react/static/css/main.d4d0bee4.css.map",
     "main.f4b02bd8.js.map": "/Adolf7_react/static/js/main.f4b02bd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.239a090d.css",
+    "static/css/main.d4d0bee4.css",
     "static/js/main.f4b02bd8.js"
   ]
 }
